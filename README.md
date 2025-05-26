@@ -77,3 +77,6 @@ An awesome list for doing (under)graduate Research at [ACLAI Lab](https://github
 * Cheatsheets:
   * [Bash](https://devhints.io/bash)
   * [Zsh](https://devhints.io/zsh)
+
+---
+Contributions to this list are welcome!!!
