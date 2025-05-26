@@ -1,5 +1,5 @@
 # 🚀 Awesome Sole.jl thesis
-An awesome list for doing (under)graduate Research at [ACLAI Lab](https://github.com/aclai-lab/), oriented towards thesis around Sole.jl.
+An awesome list for doing (under)graduate Research at [ACLAI Lab](https://github.com/aclai-lab/), oriented towards Sole.jl-related theses.
 
 ## 🤹 Learning Julia
 
